@@ -85,4 +85,4 @@ def reward_function(params):
 
 ### 8. Condición de finalización
 
-![AWS Deepracer Condición de finalización](./img/condicion_fin.JPG "Condición de finalización")
+![AWS Deepracer Condición de finalización](./img/condicion_final.JPG "Condición de finalización")
